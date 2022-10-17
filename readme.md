@@ -9,7 +9,7 @@ This is a simple project which is very common on websites, An Accordin is a very
 - Parent Child nodes in HTML
 
 
-[Live Demo](https://countdowntimer-akj.netlify.app/)
+[Live Demo](https://according-akj.netlify.app/)
 
 ### SnapShot of the program
 
